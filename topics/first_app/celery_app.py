@@ -1,4 +1,3 @@
-# import celery
 from celery import Celery
 
 # create celery app
